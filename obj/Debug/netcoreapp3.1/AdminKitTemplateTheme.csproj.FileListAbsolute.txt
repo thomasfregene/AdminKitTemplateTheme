@@ -37,3 +37,5 @@ C:\Projects\BootstrapThemesForAspNet\AdminKitTemplateTheme\obj\Debug\netcoreapp3
 C:\Projects\BootstrapThemesForAspNet\AdminKitTemplateTheme\obj\Debug\netcoreapp3.1\AdminKitTemplateTheme.csproj.CopyComplete
 C:\Projects\BootstrapThemesForAspNet\AdminKitTemplateTheme\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Index.cshtml.g.cs
 C:\Projects\BootstrapThemesForAspNet\AdminKitTemplateTheme\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Projects\BootstrapThemesForAspNet\AdminKitTemplateTheme\obj\Debug\netcoreapp3.1\Razor\Views\Invoice\Index.cshtml.g.cs
+C:\Projects\BootstrapThemesForAspNet\AdminKitTemplateTheme\obj\Debug\netcoreapp3.1\Razor\Views\Settings\Index.cshtml.g.cs
