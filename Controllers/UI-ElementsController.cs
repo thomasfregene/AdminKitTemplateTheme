@@ -12,5 +12,35 @@ namespace AdminKitTemplateTheme.Controllers
         {
             return View();
         }
+
+        public IActionResult Buttons()
+        {
+            return View();
+        }
+
+        public IActionResult Cards()
+        {
+            return View();
+        }
+
+        public IActionResult General()
+        {
+            return View();
+        }
+
+        public IActionResult Grid()
+        {
+            return View();
+        }
+
+        public IActionResult Modals()
+        {
+            return View();
+        }
+
+        public IActionResult Typography()
+        {
+            return View();
+        }
     }
 }
