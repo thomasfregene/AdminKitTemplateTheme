@@ -48,5 +48,5 @@ C:\Projects\BootstrapThemesForAspNet\AdminKitTemplateTheme\obj\Debug\netcoreapp3
 C:\Projects\BootstrapThemesForAspNet\AdminKitTemplateTheme\obj\Debug\netcoreapp3.1\Razor\Views\UI_Elements\Grid.cshtml.g.cs
 C:\Projects\BootstrapThemesForAspNet\AdminKitTemplateTheme\obj\Debug\netcoreapp3.1\Razor\Views\UI_Elements\Modals.cshtml.g.cs
 C:\Projects\BootstrapThemesForAspNet\AdminKitTemplateTheme\obj\Debug\netcoreapp3.1\Razor\Views\UI_Elements\Typograghy.cshtml.g.cs
-C:\Projects\BootstrapThemesForAspNet\AdminKitTemplateTheme\obj\Debug\netcoreapp3.1\Razor\Views\UI_Elements\Index.cshtml.g.cs
 C:\Projects\BootstrapThemesForAspNet\AdminKitTemplateTheme\obj\Debug\netcoreapp3.1\Razor\Views\Buttons\Index.cshtml.g.cs
+C:\Projects\BootstrapThemesForAspNet\AdminKitTemplateTheme\obj\Debug\netcoreapp3.1\Razor\Views\Alerts\Index.cshtml.g.cs
