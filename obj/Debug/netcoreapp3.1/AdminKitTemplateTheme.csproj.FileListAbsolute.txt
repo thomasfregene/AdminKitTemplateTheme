@@ -43,10 +43,10 @@ C:\Projects\BootstrapThemesForAspNet\AdminKitTemplateTheme\obj\Debug\netcoreapp3
 C:\Projects\BootstrapThemesForAspNet\AdminKitTemplateTheme\obj\Debug\netcoreapp3.1\Razor\Views\Map_Google\Index.cshtml.g.cs
 C:\Projects\BootstrapThemesForAspNet\AdminKitTemplateTheme\obj\Debug\netcoreapp3.1\Razor\Views\Icons\Index.cshtml.g.cs
 C:\Projects\BootstrapThemesForAspNet\AdminKitTemplateTheme\obj\Debug\netcoreapp3.1\Razor\Views\Tables\Index.cshtml.g.cs
-C:\Projects\BootstrapThemesForAspNet\AdminKitTemplateTheme\obj\Debug\netcoreapp3.1\Razor\Views\UI_Elements\Buttons.cshtml.g.cs
 C:\Projects\BootstrapThemesForAspNet\AdminKitTemplateTheme\obj\Debug\netcoreapp3.1\Razor\Views\UI_Elements\Cards.cshtml.g.cs
 C:\Projects\BootstrapThemesForAspNet\AdminKitTemplateTheme\obj\Debug\netcoreapp3.1\Razor\Views\UI_Elements\General.cshtml.g.cs
 C:\Projects\BootstrapThemesForAspNet\AdminKitTemplateTheme\obj\Debug\netcoreapp3.1\Razor\Views\UI_Elements\Grid.cshtml.g.cs
 C:\Projects\BootstrapThemesForAspNet\AdminKitTemplateTheme\obj\Debug\netcoreapp3.1\Razor\Views\UI_Elements\Modals.cshtml.g.cs
 C:\Projects\BootstrapThemesForAspNet\AdminKitTemplateTheme\obj\Debug\netcoreapp3.1\Razor\Views\UI_Elements\Typograghy.cshtml.g.cs
 C:\Projects\BootstrapThemesForAspNet\AdminKitTemplateTheme\obj\Debug\netcoreapp3.1\Razor\Views\UI_Elements\Index.cshtml.g.cs
+C:\Projects\BootstrapThemesForAspNet\AdminKitTemplateTheme\obj\Debug\netcoreapp3.1\Razor\Views\UI_Elements\Index_Buttons.cshtml.g.cs

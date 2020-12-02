@@ -13,7 +13,7 @@ namespace AdminKitTemplateTheme.Controllers
             return View();
         }
 
-        public IActionResult Buttons()
+        public IActionResult Index_Buttons()
         {
             return View();
         }
